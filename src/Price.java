@@ -3,8 +3,8 @@
  */
 abstract class Price {
     abstract int getPriceCode();
-
-    double getCharge(int daysRented) {
+    abstract double getCharge(int daysRented);
+    /*double getCharge(int daysRented) {
         double result = 0;
         switch (getPriceCode()) {
             case Movie.REGULAR:
@@ -22,7 +22,7 @@ abstract class Price {
                 break;
         }
         return result;
-    }
+    }*/
 
     int getFrequentRenterPoints(int daysRented) {
         if ((getPriceCode() == Movie.NEW_RELEASE) && daysRented > 1)
