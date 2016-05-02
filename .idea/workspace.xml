@@ -45,7 +45,7 @@
       <file leaf-file-name="ProgramTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ProgramTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="418">
               <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,9 +57,12 @@
       <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="470">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +70,8 @@
       <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+            <state relative-caret-position="338">
+              <caret line="48" column="87" selection-start-line="48" selection-start-column="87" selection-end-line="48" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -77,9 +80,14 @@
       <file leaf-file-name="Rental.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Rental.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="352">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +111,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/ProgramTest.java" />
         <option value="$PROJECT_DIR$/src/Rental.java" />
+        <option value="$PROJECT_DIR$/src/Movie.java" />
         <option value="$PROJECT_DIR$/src/Customer.java" />
       </list>
     </option>
@@ -520,12 +529,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProgramTest - 2016.05.02 at 20h 29m 40s.xml">
-      <configuration name="ProgramTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgramTest - 2016.05.02 at 20h 55m 58s.xml">
-      <configuration name="ProgramTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProgramTest - 2016.05.02 at 21h 11m 02s.xml">
       <configuration name="ProgramTest" configurationId="JUnit" />
     </history-entry>
@@ -544,6 +547,15 @@
     <history-entry file="ProgramTest - 2016.05.02 at 22h 06m 46s.xml">
       <configuration name="ProgramTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProgramTest - 2016.05.02 at 22h 25m 17s.xml">
+      <configuration name="ProgramTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgramTest - 2016.05.02 at 22h 30m 27s.xml">
+      <configuration name="ProgramTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgramTest - 2016.05.02 at 22h 32m 55s.xml">
+      <configuration name="ProgramTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="ProgramTest_testStatement - 2016.05.02 at 20h 56m 05s.xml">
       <configuration name="ProgramTest.testStatement" configurationId="JUnit" />
     </history-entry>
@@ -554,7 +566,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -605,33 +617,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Movie.java">
+    <entry file="file://$PROJECT_DIR$/src/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rental.java">
+    <entry file="file://$PROJECT_DIR$/src/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="470">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="338">
+          <caret line="48" column="87" selection-start-line="48" selection-start-column="87" selection-end-line="48" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProgramTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="418">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
